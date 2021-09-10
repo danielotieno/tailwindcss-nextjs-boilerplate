@@ -2,6 +2,7 @@
   "name": "tailwindcss-nextjs-boilerplate",
   "version": "0.1.0",
   "private": true,
+  "author": "Daniel Otieno",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
